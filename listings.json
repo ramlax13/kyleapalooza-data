@@ -1,7 +1,7 @@
 {
 "schema": 1,
 "checked": "2026-10-14",
-"built": "2026-10-14T15:55:51-04:00",
+"built": "2026-10-14T16:00:31-04:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -4591,8 +4591,8 @@
 "rating": 5.0,
 "reviews": 94,
 "fri": null,
-"thu": 7325,
-"price_basis": "Vrbo total, all fees included · Oct 12 check: same total for 10–11 guests",
+"thu": 7120,
+"price_basis": "Vrbo total, all fees included · 11 adults · Fri still min stay 3 nights (3n quote seen Oct 14, not stored)",
 "lat": 40.6475,
 "lng": -111.4995,
 "coords_approx": true,
@@ -4606,7 +4606,7 @@
 "walk_mi": 0.15,
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-13",
+"checked": "2026-10-14",
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70270000/70261300/70261231/6cb42a0e.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://mediaim.expedia.com/video/9A1CB9973399C0715D59CB4C219CD018/3c9a8a06-6687-41c2-b8fc-289d0311bb47-thumbnail.jpg?impolicy=resizecrop&rw=600",
@@ -5647,8 +5647,8 @@
 "rating": 4.6,
 "reviews": 5,
 "fri": 2079,
-"thu": 2653,
-"price_basis": "Vrbo total, all fees included · Oct 12 check: same total for 10–11 guests",
+"thu": 2582,
+"price_basis": "Vrbo total, all fees included · 11 adults · Fri 2n not rechecked Oct 14 (3n quote seen, not stored)",
 "lat": 40.633,
 "lng": -111.483,
 "coords_approx": true,
@@ -5660,7 +5660,7 @@
 "url": "https://www.vrbo.com/5284627",
 "srcfile": "ext2/whiteout.html",
 "rating_raw": "9.2/10",
-"checked": "2026-10-13",
+"checked": "2026-10-14",
 "photos": [
 "https://media.vrbo.com/lodging/132000000/131460000/131457000/131456996/ad78312b.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/132000000/131460000/131457000/131456996/e626b18c.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -9405,7 +9405,7 @@
 "fri": 2072,
 "thu": 2927,
 "thu_note": null,
-"price_basis": "Vrbo total, all fees included · Oct 12 check: same total for 10–11 guests · Fri: request to book",
+"price_basis": "Vrbo total, all fees included · Oct 14: Vrbo cannot accommodate 11 guests (sleeps 10, 4 BR); hidden for party of 11. Prices below are prior 10-guest checks; Fri 2n not rechecked.",
 "lat": 40.645644,
 "lng": -111.497704,
 "coords_approx": false,
@@ -9419,7 +9419,7 @@
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/w599h450x1y0-238f2444.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/61aaf77f.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-13",
+"checked": "2026-10-14",
 "pl": [
 "Kitchen",
 "Living",
@@ -9586,9 +9586,8 @@
 "rating_raw": "9.2/10",
 "reviews": 17,
 "fri": 1878,
-"thu": 2355,
-"thu_note": null,
-"price_basis": "Vrbo total, all fees included · Oct 12 check: same total for 10–11 guests",
+"thu": 2277,
+"price_basis": "Vrbo total, all fees included · 11 adults · Fri 2n not rechecked Oct 14 (3n quote seen, not stored)",
 "lat": 40.647119999999994,
 "lng": -111.49683,
 "coords_approx": true,
@@ -9600,7 +9599,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/531b5349.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/42dcff57.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-13",
+"checked": "2026-10-14",
 "pl": [
 "Living",
 "Living",
@@ -10201,9 +10200,8 @@
 "rating_raw": "9.8/10",
 "reviews": 38,
 "fri": 3184,
-"thu": 4022,
-"thu_note": null,
-"price_basis": "Vrbo total, all fees included · Oct 12 check: same total for 10–11 guests",
+"thu": 4308,
+"price_basis": "Vrbo total, all fees included · 11 adults · Fri 2n not rechecked Oct 14 (3n quote seen, not stored)",
 "lat": 40.6493,
 "lng": -111.502976,
 "coords_approx": false,
@@ -10220,7 +10218,7 @@
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/0339d19a.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/3ef7b8d0.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-13",
+"checked": "2026-10-14",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -10998,9 +10996,8 @@
 "rating_raw": "9.2/10",
 "reviews": 15,
 "fri": 3698,
-"thu": 4689,
-"thu_note": null,
-"price_basis": "Vrbo total, all fees included · Oct 12 check: same total for 10–11 guests",
+"thu": 4592,
+"price_basis": "Vrbo total, all fees included · 11 adults · Fri 2n not rechecked Oct 14 (3n quote seen, not stored)",
 "lat": 40.632786,
 "lng": -111.489808,
 "coords_approx": false,
@@ -11017,7 +11014,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/b2670901.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/ad00d5e7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-13",
+"checked": "2026-10-14",
 "pl": [
 "Exterior",
 "Living",
