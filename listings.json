@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-10-16",
-"built": "2026-10-16T09:27:23-04:00",
+"checked": "2026-10-17",
+"built": "2026-10-17T09:13:27-04:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -313,6 +313,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/623083701437695739",
 "airbnb": true,
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/miso/Hosting-623083701437695739/original/971bbf11-355e-42d0-8d2c-0ffacc16b917.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/miso/Hosting-623083701437695739/original/417f800b-588b-45d5-ba6a-ecbfde2d171f.jpeg?im_w=720",
@@ -427,7 +428,7 @@
 "rating": 4.5,
 "reviews": 4,
 "badge": "LUXE",
-"fri": 3203,
+"fri": 3220,
 "thu": null,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6464,
@@ -440,7 +441,7 @@
 "url": "https://www.airbnb.com/rooms/1711002432388243348",
 "airbnb": true,
 "thu_status": "Unavailable",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/691f99ab-cf38-4bc7-9eb8-376070d86e20.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/907e28b5-5f11-436b-892f-259e994fa216.png?im_w=720",
@@ -854,8 +855,8 @@
 "rating": 5.0,
 "reviews": 16,
 "badge": "GUEST_FAVORITE",
-"fri": 2360,
-"thu": 2967,
+"fri": 2346,
+"thu": 2926,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.6285,
 "lng": -111.431,
@@ -867,6 +868,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1277621150970363788",
 "airbnb": true,
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/miso/Hosting-1277621150970363788/original/3b297fc6-f290-40c2-a194-017f1d091491.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/miso/Hosting-1277621150970363788/original/569c2941-963d-4930-b85c-44ba7e6fd3bf.jpeg?im_w=720",
@@ -1337,8 +1339,8 @@
 "rating": 5.0,
 "reviews": 10,
 "badge": "SUPERHOST",
-"fri": 1792,
-"thu": 2296,
+"fri": 1635,
+"thu": 2070,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.6687,
 "lng": -111.4288,
@@ -1351,6 +1353,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/53257385",
 "airbnb": true,
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-53257385/original/fad69738-5906-4222-84e4-eb0a51fabfe6.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-53257385/original/dc5f94e9-1a0b-46e4-9175-327cf8d269c7.jpeg?im_w=720",
@@ -1422,7 +1425,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/911054031767363508",
 "airbnb": true,
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/86a7cc92-a4d1-407f-b40a-55dd119a468a.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/02b48ab4-921d-4692-8034-01fca280e4a4.png?im_w=720",
@@ -1891,75 +1894,6 @@
 "score": 55
 },
 {
-"id": "ab-828108653663299198",
-"source": "Airbnb",
-"name": "Deer Valley East | 4 King Suites, Private Hot Tub",
-"subtitle": "Home in Heber, 4 fireplaces, private hot tub",
-"br": 4,
-"beds": 7,
-"beds_verified": true,
-"beds_note": "From Airbnb \"Where you'll sleep\": 1 king, 1 king, 1 king, 1 king, 1 queen, 1 bunk; bunks counted as 2",
-"search_beds": 7,
-"baths": 4.5,
-"sleeps": 12,
-"rating": 5.0,
-"reviews": 5,
-"badge": "GUEST_FAVORITE",
-"fri": 1359,
-"thu": null,
-"price_basis": "Airbnb total incl. fees, excl. taxes",
-"lat": 40.628,
-"lng": -111.4343,
-"coords_approx": true,
-"amen": [
-"A/C",
-"hot tub"
-],
-"url": "https://www.airbnb.com/rooms/828108653663299198",
-"airbnb": true,
-"photos": [
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/1605b359-ecda-49cc-b0ff-bdcbea45aa7d.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/f5bce57b-d435-4acd-b33c-f62bf8d78e0b.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/30e2c323-9fec-4df8-9d47-f4ef9ece9ca1.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/a2328c62-71ba-4662-8411-2cced6a7a879.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/db803f81-ea18-4753-ad11-5bb945885f85.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/586c20aa-6275-466b-b3ef-9b04a3f3488d.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/e158c97c-53c1-46fa-ba4d-e4f01d657c72.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/25580cab-560f-40e2-bed8-e84fa5e9e722.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-828108653663299198/original/5869bacf-9e87-4fa1-9fac-d1f40deb2ded.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/355b4cdf-8cca-43b7-86a4-aff353af8477.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/f71eb16c-39d5-460a-8e53-6245c81115af.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/5714f80d-461a-46f1-81da-010438593818.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/2493acb2-8f33-4f05-937e-94f451d21730.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/afdce14a-cb2a-4964-963f-88e98491a436.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/hosting/Hosting-828108653663299198/original/fafee8e1-6de0-4480-b862-5cc674f0d8fe.jpeg?im_w=720"
-],
-"pl": [
-"Exterior",
-"Kitchen",
-"Living",
-"Living",
-"Outdoor",
-"Bedroom 1",
-"Bedroom 2",
-"Bedroom 3",
-"Bedroom 4",
-"Outdoor",
-"View",
-"View",
-"View",
-"View",
-"View"
-],
-"area": "Heber/Kamas/Hideout (outlying)",
-"km": 5.7,
-"drive": 19,
-"mi": 3.56,
-"walk": false,
-"tier": "Mid",
-"score": 53
-},
-{
 "id": "ab-1642360055219826828",
 "source": "Airbnb",
 "name": "Cozy ParkCity Retreat/Fully Equipped/Pet Friendly!",
@@ -2044,8 +1978,8 @@
 "rating": 5.0,
 "reviews": 34,
 "badge": "TOP_GUEST_FAVORITE",
-"fri": 1676,
-"thu": 2190,
+"fri": 1474,
+"thu": 1902,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.728,
 "lng": -111.4845,
@@ -2058,7 +1992,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1496551790362232164",
 "airbnb": true,
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/6baf62a7-c38b-4d4c-b677-b8eaec50b9b0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/1ff8c87d-4578-4691-bb98-323f409456a3.jpeg?im_w=720",
@@ -2476,7 +2410,7 @@
 "reviews": 6,
 "badge": "SUPERHOST",
 "fri": null,
-"thu": 2160,
+"thu": 2169,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.62919,
 "lng": -111.43079,
@@ -2490,7 +2424,7 @@
 "url": "https://www.airbnb.com/rooms/1695884741265796434",
 "airbnb": true,
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/82f51794-284d-41c0-b950-128b51878e7f.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/4fe20392-da4e-458c-8ae9-280aad7fe585.jpeg?im_w=720",
@@ -2561,6 +2495,8 @@
 ],
 "url": "https://www.airbnb.com/rooms/1608202100107216150",
 "airbnb": true,
+"fri_status": "Min stay 3 nights",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1608202100107216150/original/e11c1c8b-95f9-42bb-a173-05ef1e6b5f53.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1608202100107216150/original/c3666333-36fb-4a23-877a-e7bc27966d67.jpeg?im_w=720",
@@ -3027,7 +2963,7 @@
 "rating": 5.0,
 "reviews": 7,
 "badge": "GUEST_FAVORITE",
-"fri": 1838,
+"fri": null,
 "thu": 1838,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.64962,
@@ -3040,6 +2976,8 @@
 ],
 "url": "https://www.airbnb.com/rooms/1523902666815626398",
 "airbnb": true,
+"fri_status": "Min stay 3 nights",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1523902666815626398/original/2500a4d3-fc95-4abb-b21d-38102d566cd6.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1523902666815626398/original/23b635b2-48d3-4db4-9cd6-7ac578ac08a5.jpeg?im_w=720",
@@ -4516,7 +4454,7 @@
 "rating": 4.96,
 "reviews": 23,
 "fri": null,
-"thu": 4309,
+"thu": 4327,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.6455,
 "lng": -111.4975,
@@ -4529,7 +4467,7 @@
 "walk_mi": 0.1,
 "alt_url": "https://www.airbnb.com/rooms/722379489554459118",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70100000/70097500/70097448/403ae679.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/71000000/70100000/70097500/70097448/036412f1.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5273,7 +5211,7 @@
 "srcfile": "ext2/goldcoast.html",
 "alt_url": "https://www.airbnb.com/rooms/53727623",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/f8230911.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/eae024ce.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5309,8 +5247,8 @@
 "sleeps": 16,
 "rating": 5.0,
 "reviews": 3,
-"fri": 4483,
-"thu": 6235,
+"fri": 4456,
+"thu": 6208,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6478,
 "lng": -111.5012,
@@ -5323,7 +5261,7 @@
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/6c1da3b0-08c8-4d45-88db-7f1101a40af0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/75b624f9-dd6c-4795-8f65-d47952b3d136.jpeg?im_w=720",
@@ -6304,7 +6242,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1738589890720018710/original/aecb3b25-ab9c-45f1-a355-fe98c3209fef.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6375,7 +6313,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1497327845221076010/original/414dc89f-abc9-431b-88be-765792ff5f38.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 9,
 "pl": [
 "Exterior",
@@ -6436,7 +6374,7 @@
 "https://a0.muscache.com/im/pictures/e8155614-74ed-486b-8567-8312c7d13bb4.jpg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Living",
 "Dining",
@@ -6497,7 +6435,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-624801791511932117/original/530d82df-ebd2-45c9-bb80-574e283c4006.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6558,7 +6496,7 @@
 "https://a0.muscache.com/im/pictures/e260f044-95a7-45b3-ac64-4e87697f88b5.jpg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6588,8 +6526,8 @@
 "sleeps": 12,
 "rating": 4.8,
 "reviews": 15,
-"fri": 6839,
-"thu": 6839,
+"fri": null,
+"thu": 6785,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6498,
@@ -6619,6 +6557,8 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1237179506069103065/original/8e145418-ab6f-4204-b19a-f40353b4cd92.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1237179506069103065/original/85b0e720-d0b1-4f88-9aaf-a4ed119a83f6.jpeg?im_w=720"
 ],
+"fri_status": "Min stay 3 nights",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -6690,7 +6630,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-47054326/original/a6cd5931-1211-4570-b4ab-0132e9eb0d91.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -7108,7 +7048,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-40891098/original/4afb473f-90e6-4123-a477-3ec58b9ff977.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -7171,7 +7111,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4NTU1MjUxMjgxMTk0NjA0OA==/original/33c52f70-31d4-44a0-be12-946907cb6eee.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 10,
 "pl": [
 "Outdoor",
@@ -7201,8 +7141,8 @@
 "sleeps": 14,
 "rating": 4.89,
 "reviews": 61,
-"fri": 1577,
-"thu": 2201,
+"fri": 1575,
+"thu": 2210,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.64862,
@@ -7226,6 +7166,7 @@
 "https://a0.muscache.com/im/pictures/miso/Hosting-951449191922793380/original/e2cba7a3-80b9-4de8-a029-e467a010ca68.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/miso/Hosting-951449191922793380/original/eeda233b-ad6b-427e-8cb0-036e1a28332d.jpeg?im_w=720"
 ],
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -7502,7 +7443,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1368973511689356769/original/990075e6-646a-4e11-96e6-45a9b62d9dd9.png?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -7575,7 +7516,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-915351556084533120/original/6fd9d527-e642-4ee0-bdb7-e0e0153e0780.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Kitchen",
 "Living",
@@ -7647,7 +7588,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147876303088783710/original/0aac2f87-0478-4a17-a724-803f4cc967c2.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147876303088783710/original/d8f8fca7-c3e1-426e-97af-a8d903d7ef9d.jpeg?im_w=720"
 ],
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Kitchen",
 "Living",
@@ -7811,145 +7752,6 @@
 "walk": true,
 "tier": "Splurge",
 "score": 79
-},
-{
-"id": "ab-16645487",
-"source": "Airbnb",
-"name": "Walk to Skiing & Main Street | Private Hot Tub",
-"subtitle": "Walk to skiing",
-"br": 5,
-"beds": 8,
-"beds_verified": true,
-"beds_note": "From Airbnb layout: 1 queen, 1 queen, 2 bunk, 1 king, 1 king, 1 sofa (excluded: 1 sofa)",
-"search_beds": 9,
-"baths": 5.0,
-"sleeps": 13,
-"rating": 4.93,
-"reviews": 29,
-"fri": 2211,
-"thu": 2890,
-"thu_note": null,
-"price_basis": "incl. fees, excl. taxes (Old Town search)",
-"lat": 40.6497,
-"lng": -111.5042,
-"coords_approx": true,
-"amen": [
-"hot tub",
-"views"
-],
-"url": "https://www.airbnb.com/rooms/16645487",
-"airbnb": true,
-"photos": [
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/48742811-5324-4d2a-ab20-65693f95bfd5.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/05fbff8b-9195-49a4-a72b-bcc4e4a57b10.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/60cf4161-fd5b-4fd8-8815-f1b2817e7dc1.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/e6937725-8ca7-4903-8d64-67bdd0036177.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/55d7fc02-211e-479e-aaf5-e13609362d5d.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/5bc44865-a12b-4930-b687-4f1adcac3a32.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/dd94f03c-cb09-4d9c-8a57-edb00f28da59.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/30880f1d-9f4f-47de-8dcb-f2bd18906176.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/3c84c999-0d31-4204-998e-b08c999d6e53.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/9f340810-b516-4135-9620-d6f929872d8a.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/2acae423-8566-4f0d-851c-2ee253ac64ca.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/f654da6a-a312-47d3-b4f4-1a260a2686d2.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/48395346-04cd-4120-ba5d-25904b43f398.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/5d154c1f-6fea-4981-87e3-094c5ad4e406.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645487/original/fcb9cf9a-bb36-4344-b14c-dd8ba5191ef2.jpeg?im_w=720"
-],
-"pl": [
-"Exterior",
-"Kitchen",
-"Living",
-"Living",
-"Outdoor",
-"Bedroom 1",
-"Bedroom 2",
-"Bedroom 3",
-"Bedroom 4",
-"Bedroom 5",
-"Game room",
-"Dining",
-"Dining",
-"Dining",
-"Dining"
-],
-"area": "Old Town/Main St",
-"km": 0.7,
-"drive": 5,
-"mi": 0.41,
-"walk": true,
-"tier": "Splurge",
-"score": 84
-},
-{
-"id": "ab-16645486",
-"source": "Airbnb",
-"name": "Walk to Skiing Park City Lifts | 3 Kings + Hot Tub",
-"subtitle": "Walk to ski",
-"br": 5,
-"beds": 9,
-"beds_verified": true,
-"beds_note": "From Airbnb layout: 1 king, 1 king, 2 bunk, 1 bunk, 1 king",
-"search_beds": 9,
-"baths": 5.0,
-"sleeps": 12,
-"rating": 4.76,
-"reviews": 37,
-"fri": 2341,
-"thu": 3069,
-"thu_note": null,
-"price_basis": "incl. fees, excl. taxes (Old Town search)",
-"lat": 40.6497,
-"lng": -111.5042,
-"coords_approx": true,
-"amen": [
-"hot tub",
-"A/C"
-],
-"url": "https://www.airbnb.com/rooms/16645486",
-"airbnb": true,
-"photos": [
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/ec710c88-b0db-4138-affc-c92e7c9accfb.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/6c4ff360-54ce-41f8-a3b9-5cad4d119d15.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/e66330ed-4468-457c-aefc-c7d6a3e183e2.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/00af799f-995c-4f42-a725-13a312a732b2.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/7c93bba2-23df-4b3b-b417-de1d9dd3b34d.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/ece334c5-fcfb-4b06-8923-7f128f32876f.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/3b59c2cf-91fc-40d1-a575-ca4cd97007f7.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/20ed8219-63d9-4fe3-aaea-b0b64689b4d3.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/d61affab-5d43-423e-858f-9eef408c3076.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/7f4d64a8-8df6-43fb-b571-6b9e48fdf1ae.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/6b02602d-1dfb-4c0f-868c-ca1180fef09c.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/292ce2ab-055b-4d7e-b6ae-83f9c7cac3a6.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/c2e5418e-c572-40b7-8205-0c499ed135a6.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/c8004388-143b-4c5c-93f5-b97fbc34dfff.jpeg?im_w=720",
-"https://a0.muscache.com/im/pictures/prohost-api/Hosting-16645486/original/feae4c4a-73cb-4b9d-970a-a42eb5e4cdb9.jpeg?im_w=720"
-],
-"checked": "2026-10-16",
-"pl": [
-"Exterior",
-"Kitchen",
-"Living",
-"Living",
-"Outdoor",
-"Bedroom 1",
-"Bedroom 2",
-"Bedroom 3",
-"Outdoor",
-"Outdoor",
-"View",
-"View",
-"View",
-"View",
-"Dining"
-],
-"area": "Old Town/Main St",
-"km": 0.7,
-"drive": 5,
-"mi": 0.41,
-"walk": true,
-"tier": "Splurge",
-"score": 77
 },
 {
 "id": "ab-1689937980407463018",
@@ -8387,8 +8189,8 @@
 "sleeps": 12,
 "rating": 5.0,
 "reviews": 1,
-"fri": 2321,
-"thu": 3253,
+"fri": 2333,
+"thu": 3273,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search) · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6408,
@@ -8419,7 +8221,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1601836558116797519/original/be8bf95a-2cec-4d92-b9ec-a40b5f6ef559.jpeg?im_w=720"
 ],
 "alt_url": "https://www.vrbo.com/5053236",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -8459,8 +8261,8 @@
 "sleeps": 11,
 "rating": 5.0,
 "reviews": 1,
-"fri": 1553,
-"thu": 1906,
+"fri": 1533,
+"thu": 1877,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6572,
@@ -8489,6 +8291,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1594347153270250069/original/c10e7a9c-b5bb-42f6-a92c-410295227634.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1594347153270250069/original/a8c411f6-05cc-4984-b458-cfb984db8196.jpeg?im_w=720"
 ],
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -8840,7 +8643,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-27660187/original/14351362-152b-4691-83a4-15b3004e69c0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-27660187/original/0532a4fc-3c19-4955-9d7b-6633cff6919b.jpeg?im_w=720"
 ],
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -9024,7 +8827,7 @@
 "rating": null,
 "reviews": 0,
 "fri": null,
-"thu": 4359,
+"thu": 4391,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.64658,
@@ -9056,7 +8859,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1785817219099432159/original/dad029bd-6d85-41c8-a4ae-904c5551906f.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Kitchen",
 "Living",
@@ -9127,7 +8930,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1042979454883816877/original/ebcc6d2e-e7cb-434a-9c62-19e8b6951af7.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -9200,7 +9003,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1423232157001252818/original/784f6d77-ece9-4eb2-a4a1-4b91c45da04a.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "max_guests": 11,
 "pl": [
 "Exterior",
@@ -9242,7 +9045,7 @@
 "rating": 4.97,
 "reviews": 29,
 "fri": null,
-"thu": 3485,
+"thu": 3505,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.64427,
@@ -9271,7 +9074,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1268276870825300371/original/d77cf236-6289-4f74-9840-da3199d861e5.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-16",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -9333,6 +9136,8 @@
 "https://a0.muscache.com/im/pictures/f79d0b6e-1c38-40d1-9afb-441323ee4fe2.jpg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-30104510/original/03976dc2-dbd4-42b7-a48d-ef2288ef67a7.jpeg?im_w=720"
 ],
+"fri_status": "Min stay 3 nights",
+"checked": "2026-10-17",
 "pl": [
 "Exterior",
 "Living",
