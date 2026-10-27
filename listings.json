@@ -1,7 +1,7 @@
 {
 "schema": 1,
 "checked": "2026-10-27",
-"built": "2026-10-27T09:14:23-04:00",
+"built": "2026-10-27T09:14:48-04:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -4360,7 +4360,7 @@
 "walk_mi": 0.15,
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 20,
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70270000/70261300/70261231/6cb42a0e.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5059,7 +5059,7 @@
 "url": "https://www.vrbo.com/3819801",
 "fri_status": "Min stay 3 nights",
 "rating_raw": "10/10",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 17,
 "photos": [],
 "area": "Lower Deer Valley",
@@ -5222,7 +5222,7 @@
 "url": "https://www.vrbo.com/213428",
 "srcfile": "ext2/v213428.html",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 12,
 "photos": [
 "https://media.vrbo.com/lodging/20000000/19010000/19007700/19007622/c5c2503f.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5355,7 +5355,7 @@
 "rating": 4.6,
 "reviews": 5,
 "fri": 1917,
-"thu": 2458,
+"thu": 2445,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.633,
 "lng": -111.483,
@@ -5368,7 +5368,7 @@
 "url": "https://www.vrbo.com/5284627",
 "srcfile": "ext2/whiteout.html",
 "rating_raw": "9.2/10",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 14,
 "photos": [
 "https://media.vrbo.com/lodging/132000000/131460000/131457000/131456996/ad78312b.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -8686,7 +8686,7 @@
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/w599h450x1y0-238f2444.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/61aaf77f.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-25",
+"checked": "2026-10-27",
 "max_guests": 10,
 "pl": [
 "Kitchen",
@@ -8871,7 +8871,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/531b5349.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/42dcff57.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 16,
 "pl": [
 "Living",
@@ -8965,7 +8965,7 @@
 "https://media.vrbo.com/lodging/126000000/125130000/125123900/125123874/38e019a3.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/126000000/125130000/125123900/125123874/830a41f7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "max_guests": 9,
 "pl": [
 "Exterior",
@@ -9493,7 +9493,7 @@
 "rating_raw": "9.8/10",
 "reviews": 38,
 "fri": 3647,
-"thu": 4382,
+"thu": 4374,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.6493,
 "lng": -111.502976,
@@ -9511,7 +9511,7 @@
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/0339d19a.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/3ef7b8d0.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 20,
 "pl": [
 "Exterior",
@@ -9542,8 +9542,8 @@
 "rating": 4.8,
 "rating_raw": "9.6/10",
 "reviews": 72,
-"fri": 2106,
-"thu": 3080,
+"fri": 2158,
+"thu": 2972,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.64996,
@@ -9559,7 +9559,8 @@
 "https://media.vrbo.com/lodging/35000000/34190000/34185500/34185484/5a031cbb.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/35000000/34190000/34185500/34185484/240637f7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
+"max_guests": 12,
 "pl": [
 "Exterior",
 "Kitchen",
@@ -10076,8 +10077,8 @@
 "rating": 4.7,
 "rating_raw": "9.4/10",
 "reviews": 8,
-"fri": 1032,
-"thu": 1414,
+"fri": 1065,
+"thu": 1426,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.652338,
@@ -10096,7 +10097,8 @@
 "https://media.vrbo.com/lodging/52000000/51870000/51864900/51864899/ecb5c01a.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/52000000/51870000/51864900/51864899/61f615a5.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
+"max_guests": 12,
 "pl": [
 "Kitchen",
 "Living",
@@ -10307,8 +10309,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 15,
-"fri": 3643,
-"thu": 4590,
+"fri": 3638,
+"thu": 4580,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.632786,
 "lng": -111.489808,
@@ -10326,7 +10328,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/b2670901.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/ad00d5e7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 16,
 "pl": [
 "Exterior",
