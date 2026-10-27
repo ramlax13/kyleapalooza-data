@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-10-26",
-"built": "2026-10-26T09:13:49-04:00",
+"checked": "2026-10-27",
+"built": "2026-10-27T09:14:23-04:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -32,7 +32,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1548018492106651367",
 "airbnb": true,
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1548018492106651367/original/dcb94af1-8f86-42f6-b47a-c6d90801c0f1.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1548018492106651367/original/886a8a7d-394d-4ea4-8387-1326f6e7ce26.jpeg?im_w=720",
@@ -429,7 +429,7 @@
 "rating": 4.5,
 "reviews": 4,
 "badge": "LUXE",
-"fri": 3470,
+"fri": 3480,
 "thu": null,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6464,
@@ -442,7 +442,7 @@
 "url": "https://www.airbnb.com/rooms/1711002432388243348",
 "airbnb": true,
 "thu_status": "Unavailable",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/691f99ab-cf38-4bc7-9eb8-376070d86e20.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/907e28b5-5f11-436b-892f-259e994fa216.png?im_w=720",
@@ -584,7 +584,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/691958245723687144",
 "airbnb": true,
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/miso/Hosting-691958245723687144/original/6e5e7ac7-3547-4ceb-b25d-90383375b1bf.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/miso/Hosting-691958245723687144/original/d394cc21-f105-431a-a39b-f537fa3c16dc.jpeg?im_w=720",
@@ -1072,7 +1072,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/815906861931539125",
 "airbnb": true,
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-815906861931539125/original/b8b11da2-b9c5-4b4b-8a41-4e26e6d2bf59.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-815906861931539125/original/cfc5582a-4d4f-425f-9bf4-e6a61593a400.jpeg?im_w=720",
@@ -1429,7 +1429,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/911054031767363508",
 "airbnb": true,
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/86a7cc92-a4d1-407f-b40a-55dd119a468a.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/02b48ab4-921d-4692-8034-01fca280e4a4.png?im_w=720",
@@ -1570,7 +1570,7 @@
 "amen": [],
 "url": "https://www.airbnb.com/rooms/1473617272369529348",
 "airbnb": true,
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1473617272369529348/original/9b5f5efa-59fd-431f-a993-789cf92dc064.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1473617272369529348/original/35ebe7d2-2c40-4914-9ea6-6fd6d3562da7.jpeg?im_w=720",
@@ -1915,8 +1915,8 @@
 "rating": 5.0,
 "reviews": 34,
 "badge": "TOP_GUEST_FAVORITE",
-"fri": 2206,
-"thu": 2979,
+"fri": 2194,
+"thu": 2965,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.728,
 "lng": -111.4845,
@@ -1929,7 +1929,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1496551790362232164",
 "airbnb": true,
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/6baf62a7-c38b-4d4c-b677-b8eaec50b9b0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/1ff8c87d-4578-4691-bb98-323f409456a3.jpeg?im_w=720",
@@ -2058,8 +2058,8 @@
 "rating": 5.0,
 "reviews": 2,
 "badge": "SUPERHOST",
-"fri": 1617,
-"thu": 2064,
+"fri": 1591,
+"thu": 2034,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.67004,
 "lng": -111.43216,
@@ -2074,7 +2074,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1689969683102796620",
 "airbnb": true,
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969683102796620/original/5edd2967-d979-404b-a421-4b9ef6a9dbd0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969683102796620/original/40f22b34-2de7-4fbe-9600-570da00eeafa.jpeg?im_w=720",
@@ -2276,7 +2276,7 @@
 "reviews": 6,
 "badge": "SUPERHOST",
 "fri": null,
-"thu": 2353,
+"thu": 2358,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.62919,
 "lng": -111.43079,
@@ -2290,7 +2290,7 @@
 "url": "https://www.airbnb.com/rooms/1695884741265796434",
 "airbnb": true,
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/82f51794-284d-41c0-b950-128b51878e7f.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/4fe20392-da4e-458c-8ae9-280aad7fe585.jpeg?im_w=720",
@@ -2482,7 +2482,7 @@
 "reviews": 41,
 "badge": "GUEST_FAVORITE",
 "fri": null,
-"thu": 2445,
+"thu": 2359,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.6619,
 "lng": -111.4183,
@@ -2495,7 +2495,7 @@
 "url": "https://www.airbnb.com/rooms/922562824100098514",
 "airbnb": true,
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-922562824100098514/original/20215337-7d72-45e7-bb2d-3e20febc6ff1.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-922562824100098514/original/020a1971-bba9-46e7-823f-cc8dd5cdc9d2.jpeg?im_w=720",
@@ -4267,7 +4267,7 @@
 "walk_mi": 0.1,
 "alt_url": "https://www.airbnb.com/rooms/722379489554459118",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70100000/70097500/70097448/403ae679.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/71000000/70100000/70097500/70097448/036412f1.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4960,7 +4960,7 @@
 "srcfile": "ext2/goldcoast.html",
 "alt_url": "https://www.airbnb.com/rooms/53727623",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/f8230911.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/eae024ce.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5010,7 +5010,7 @@
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/6c1da3b0-08c8-4d45-88db-7f1101a40af0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/75b624f9-dd6c-4795-8f65-d47952b3d136.jpeg?im_w=720",
@@ -5437,7 +5437,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-44552013/original/24d268a2-0731-477b-a26f-b7ea4301eccb.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -5646,7 +5646,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1670918750494786303/original/4dbd0cb2-fce2-4602-a35a-4fae299476a1.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1670918750494786303/original/d48b2f0b-4fe3-48ff-b9fd-13e79675df17.jpeg?im_w=720"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -5856,7 +5856,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1601837058900350056/original/a9f591c6-603c-4a90-9680-fe6d938a73e1.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1601837058900350056/original/79c51d60-8f73-4c1f-911c-814e02ba5016.jpeg?im_w=720"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -5998,7 +5998,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1738589890720018710/original/aecb3b25-ab9c-45f1-a355-fe98c3209fef.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6069,7 +6069,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1497327845221076010/original/414dc89f-abc9-431b-88be-765792ff5f38.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 9,
 "pl": [
 "Exterior",
@@ -6142,7 +6142,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-624801791511932117/original/530d82df-ebd2-45c9-bb80-574e283c4006.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6203,7 +6203,7 @@
 "https://a0.muscache.com/im/pictures/e260f044-95a7-45b3-ac64-4e87697f88b5.jpg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6265,7 +6265,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1237179506069103065/original/85b0e720-d0b1-4f88-9aaf-a4ed119a83f6.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -6337,7 +6337,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-47054326/original/a6cd5931-1211-4570-b4ab-0132e9eb0d91.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6549,7 +6549,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-3218231/original/f63377f7-fa88-423b-9613-178488e8366e.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -6748,7 +6748,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4NTU1MjUxMjgxMTk0NjA0OA==/original/33c52f70-31d4-44a0-be12-946907cb6eee.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 10,
 "pl": [
 "Outdoor",
@@ -7011,7 +7011,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1355338854963024224/original/279414de-88d0-4b06-8834-29e16931defe.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1355338854963024224/original/96574864-1ce3-4cfb-a809-c0971533500b.jpeg?im_w=720"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "pl": [
 "Kitchen",
 "Living",
@@ -7082,7 +7082,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1368973511689356769/original/990075e6-646a-4e11-96e6-45a9b62d9dd9.png?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -7155,7 +7155,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-915351556084533120/original/6fd9d527-e642-4ee0-bdb7-e0e0153e0780.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Kitchen",
 "Living",
@@ -7227,7 +7227,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147876303088783710/original/0aac2f87-0478-4a17-a724-803f4cc967c2.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147876303088783710/original/d8f8fca7-c3e1-426e-97af-a8d903d7ef9d.jpeg?im_w=720"
 ],
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Kitchen",
 "Living",
@@ -7548,7 +7548,7 @@
 "rating": 5.0,
 "reviews": 8,
 "fri": 3413,
-"thu": 4411,
+"thu": 4405,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6503,
@@ -7578,7 +7578,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1062378051074450071/original/3b7f60da-3bf8-4137-a2b1-393c33cc49b3.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1062378051074450071/original/d69515a2-de7f-4093-8f20-599053ea348d.jpeg?im_w=720"
 ],
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -7830,8 +7830,8 @@
 "sleeps": 12,
 "rating": 5.0,
 "reviews": 1,
-"fri": 2279,
-"thu": 3192,
+"fri": 2267,
+"thu": 3170,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search) · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6408,
@@ -7862,7 +7862,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1601836558116797519/original/be8bf95a-2cec-4d92-b9ec-a40b5f6ef559.jpeg?im_w=720"
 ],
 "alt_url": "https://www.vrbo.com/5053236",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -8076,7 +8076,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1481765737782343025/original/cc761588-cf7a-478c-b40a-0abb52d57445.jpeg?im_w=720"
 ],
 "thu_status": "Price n/a",
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -8186,8 +8186,8 @@
 "sleeps": 14,
 "rating": 5.0,
 "reviews": 3,
-"fri": 2681,
-"thu": 3620,
+"fri": 2671,
+"thu": 3614,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6547,
@@ -8216,7 +8216,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-27660187/original/14351362-152b-4691-83a4-15b3004e69c0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-27660187/original/0532a4fc-3c19-4955-9d7b-6633cff6919b.jpeg?im_w=720"
 ],
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -8432,7 +8432,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1785817219099432159/original/dad029bd-6d85-41c8-a4ae-904c5551906f.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Kitchen",
 "Living",
@@ -8505,7 +8505,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1423232157001252818/original/784f6d77-ece9-4eb2-a4a1-4b91c45da04a.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "max_guests": 11,
 "pl": [
 "Exterior",
@@ -8576,7 +8576,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1268276870825300371/original/d77cf236-6289-4f74-9840-da3199d861e5.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-26",
+"checked": "2026-10-27",
 "pl": [
 "Exterior",
 "Kitchen",
