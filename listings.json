@@ -1,7 +1,7 @@
 {
 "schema": 1,
 "checked": "2026-10-30",
-"built": "2026-10-30T09:30:09-04:00",
+"built": "2026-10-30T09:30:30-04:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -4360,7 +4360,7 @@
 "walk_mi": 0.15,
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-29",
+"checked": "2026-10-30",
 "max_guests": 20,
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70270000/70261300/70261231/6cb42a0e.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4673,7 +4673,7 @@
 "url": "https://www.vrbo.com/1475919",
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-10-28",
+"checked": "2026-10-30",
 "max_guests": 10,
 "photos": [
 "https://media.vrbo.com/lodging/33000000/32160000/32152800/32152799/70c84cad.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4800,7 +4800,7 @@
 "rating": 4.7,
 "reviews": 41,
 "fri": null,
-"thu": 7603,
+"thu": 8384,
 "price_basis": "Vrbo total incl. fees, excl. taxes",
 "lat": 40.668,
 "lng": -111.515,
@@ -4814,7 +4814,8 @@
 "url": "https://www.vrbo.com/2551170",
 "rating_raw": "9.4/10",
 "fri_status": "Min stay 3+ nights",
-"checked": "2026-10-23",
+"checked": "2026-10-30",
+"max_guests": 18,
 "photos": [
 "https://media.vrbo.com/lodging/74000000/73020000/73014900/73014852/9c2f6418.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/74000000/73020000/73014900/73014852/d7f5142c.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5270,8 +5271,8 @@
 "sleeps": 14,
 "rating": 4.6,
 "reviews": 5,
-"fri": 2073,
-"thu": 2625,
+"fri": 2106,
+"thu": 2665,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.633,
 "lng": -111.483,
@@ -5284,7 +5285,7 @@
 "url": "https://www.vrbo.com/5284627",
 "srcfile": "ext2/whiteout.html",
 "rating_raw": "9.2/10",
-"checked": "2026-10-29",
+"checked": "2026-10-30",
 "max_guests": 14,
 "photos": [
 "https://media.vrbo.com/lodging/132000000/131460000/131457000/131456996/ad78312b.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -8461,7 +8462,7 @@
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/w599h450x1y0-238f2444.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/61aaf77f.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-29",
+"checked": "2026-10-30",
 "max_guests": 10,
 "pl": [
 "Kitchen",
@@ -8632,8 +8633,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 17,
-"fri": 2346,
-"thu": 2848,
+"fri": 2363,
+"thu": 2869,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.647119999999994,
 "lng": -111.49683,
@@ -8646,7 +8647,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/531b5349.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/42dcff57.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-29",
+"checked": "2026-10-30",
 "max_guests": 16,
 "pl": [
 "Living",
@@ -8972,8 +8973,8 @@
 "rating": 5.0,
 "rating_raw": "10/10",
 "reviews": 118,
-"fri": 1294,
-"thu": 1905,
+"fri": 1343,
+"thu": 1874,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.640699999999995,
@@ -8987,7 +8988,8 @@
 "https://media.vrbo.com/lodging/34000000/33510000/33506500/33506401/6f86410b.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/34000000/33510000/33506500/33506401/021a15b0.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-23",
+"checked": "2026-10-30",
+"max_guests": 12,
 "pl": [
 "Kitchen",
 "Living",
@@ -9109,8 +9111,8 @@
 "rating": 4.7,
 "rating_raw": "9.4/10",
 "reviews": 19,
-"fri": 1889,
-"thu": 2699,
+"fri": 1942,
+"thu": 2604,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.64346,
@@ -9122,7 +9124,8 @@
 ],
 "url": "https://www.vrbo.com/3195849ha",
 "photos": [],
-"checked": "2026-10-24",
+"checked": "2026-10-30",
+"max_guests": 12,
 "area": "Old Town/Main St",
 "km": 0.4,
 "drive": 5,
@@ -9268,7 +9271,7 @@
 "rating_raw": "9.8/10",
 "reviews": 38,
 "fri": 3948,
-"thu": 4779,
+"thu": 4806,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.6493,
 "lng": -111.502976,
@@ -9286,7 +9289,7 @@
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/0339d19a.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/3ef7b8d0.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-29",
+"checked": "2026-10-30",
 "max_guests": 20,
 "pl": [
 "Exterior",
@@ -9600,8 +9603,8 @@
 "rating": 3.9,
 "rating_raw": "7.8/10",
 "reviews": 6,
-"fri": 825,
-"thu": 1164,
+"fri": 851,
+"thu": 1169,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.652348,
@@ -9619,7 +9622,8 @@
 "https://media.vrbo.com/lodging/114000000/113140000/113135400/113135345/77eae11f.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/114000000/113140000/113135400/113135345/b3f86ba9.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-23",
+"checked": "2026-10-30",
+"max_guests": 15,
 "pl": [
 "Exterior",
 "Kitchen",
@@ -9749,8 +9753,8 @@
 "rating": 4.4,
 "rating_raw": "8.8/10",
 "reviews": 19,
-"fri": 1022,
-"thu": 1370,
+"fri": 1132,
+"thu": 1557,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.651714,
@@ -9770,7 +9774,7 @@
 "https://media.vrbo.com/lodging/105000000/104480000/104471800/104471794/3a476649.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/105000000/104480000/104471800/104471794/de17e195.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-28",
+"checked": "2026-10-30",
 "max_guests": 14,
 "pl": [
 "Kitchen",
@@ -9956,7 +9960,7 @@
 "https://media.vrbo.com/lodging/30000000/29630000/29626200/29626144/50213338.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/30000000/29630000/29626200/29626144/w846h566x1y1-6e869b6b.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-28",
+"checked": "2026-10-30",
 "max_guests": 14,
 "pl": [
 "Exterior",
@@ -10024,55 +10028,6 @@
 "score": 70
 },
 {
-"id": "vo-196626",
-"source": "Vrbo",
-"name": "Walk to Park City Mountain! Cozy Winter Retreat for Large Groups, Private Hot Tub, Near Main St.",
-"subtitle": "Walk to PCM large groups",
-"br": 5,
-"beds": 7,
-"beds_verified": false,
-"beds_note": "Vrbo card bed count (unverified)",
-"baths": null,
-"sleeps": 14,
-"rating": 5.0,
-"rating_raw": "10/10",
-"reviews": 22,
-"fri": 2385,
-"thu": 3140,
-"thu_note": null,
-"price_basis": "Vrbo total, all fees included",
-"lat": 40.65498,
-"lng": -111.506363,
-"coords_approx": false,
-"walk_mi": 0.9,
-"amen": [
-"hot tub"
-],
-"url": "https://www.vrbo.com/196626",
-"photos": [
-"https://media.vrbo.com/lodging/22000000/21710000/21704900/21704805/bfb598f9.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/22000000/21710000/21704900/21704805/50f6ccb9.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/22000000/21710000/21704900/21704805/98bf10c9.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/22000000/21710000/21704900/21704805/0ef1dca1.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/22000000/21710000/21704900/21704805/06897a34.jpg?impolicy=resizecrop&rw=600&ra=fit"
-],
-"checked": "2026-10-23",
-"pl": [
-"Exterior",
-"Living",
-"Outdoor",
-"Outdoor",
-"Outdoor"
-],
-"area": "Old Town/Main St",
-"km": 1.2,
-"drive": 5,
-"mi": 0.9,
-"walk": false,
-"tier": "Splurge",
-"score": 87
-},
-{
 "id": "vo-454929",
 "source": "Vrbo",
 "name": "Luxury Deer Valley Estate | Ski-In/Ski-Out | Hot Tub & Views - See Recent Reviews - 2026 - Vrbo",
@@ -10086,8 +10041,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 15,
-"fri": 3905,
-"thu": 4976,
+"fri": 3920,
+"thu": 5000,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.632786,
 "lng": -111.489808,
@@ -10105,7 +10060,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/b2670901.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/ad00d5e7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-29",
+"checked": "2026-10-30",
 "max_guests": 16,
 "pl": [
 "Exterior",
