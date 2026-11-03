@@ -1,7 +1,7 @@
 {
 "schema": 1,
 "checked": "2026-11-03",
-"built": "2026-11-03T09:18:21-05:00",
+"built": "2026-11-03T10:14:40-05:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -4988,7 +4988,7 @@
 },
 {
 "id": "wk-norfolk21",
-"source": "Airbnb (manager)",
+"source": "Mountain West Vacation Rentals (direct)",
 "name": "Norfolk Ski Escape 21: Steps to Town Lift",
 "subtitle": "Old Town, ~5-min walk to Main St; 3-car garage; no A/C",
 "br": 6,
@@ -4999,9 +4999,9 @@
 "sleeps": 16,
 "rating": 5.0,
 "reviews": 3,
-"fri": 4478,
-"thu": 6165,
-"price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
+"fri": 4041,
+"thu": 5594,
+"price_basis": "Direct total for 11 guests incl. cleaning, booking fee, damage waiver and Utah taxes · nonrefundable unless cancellation waiver added within 48h (+$452 Thu / +$301 Fri) · 50% now, rest Apr 18, 2027 · Airbnb alt link: Thu $6,165 / Fri $4,478 incl. fees, excl. taxes",
 "lat": 40.6478,
 "lng": -111.5012,
 "coords_approx": true,
@@ -5009,11 +5009,12 @@
 "amen": [
 "views"
 ],
-"url": "https://www.airbnb.com/rooms/1689969478201906646",
+"url": "https://mountainwestvacationrentals.com/property-info/Park-City-Norfolk-Ski-Escape-21/",
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
 "checked": "2026-11-03",
+"alt_url": "https://www.airbnb.com/rooms/1689969478201906646",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/6c1da3b0-08c8-4d45-88db-7f1101a40af0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/75b624f9-dd6c-4795-8f65-d47952b3d136.jpeg?im_w=720",
