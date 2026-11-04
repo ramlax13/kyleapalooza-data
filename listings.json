@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-11-03",
-"built": "2026-11-03T10:23:35-05:00",
+"checked": "2026-11-04",
+"built": "2026-11-04T09:24:07-05:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -104,7 +104,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1638813467534545758",
 "airbnb": true,
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1638813467534545758/original/dce56588-a5bd-48ae-9df4-6d371c3efda9.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1638813467534545758/original/cd2989ef-571c-4765-b76a-070dc4fc447a.jpeg?im_w=720",
@@ -442,7 +442,7 @@
 "url": "https://www.airbnb.com/rooms/1711002432388243348",
 "airbnb": true,
 "thu_status": "Unavailable",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/691f99ab-cf38-4bc7-9eb8-376070d86e20.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/907e28b5-5f11-436b-892f-259e994fa216.png?im_w=720",
@@ -654,7 +654,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1100115580005914717",
 "airbnb": true,
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1100115580005914717/original/a2c617a9-04d6-4288-b564-f1f9929c7fb1.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1100115580005914717/original/448d057e-4b6c-4e37-a5d3-93c17d949f55.jpeg?im_w=720",
@@ -1142,7 +1142,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/52988729",
 "airbnb": true,
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52988729/original/0c5f805d-0f5a-4cc6-9cc2-f98777e5126e.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52988729/original/8c988b51-d87b-41a2-aa65-80cbd03ecee5.jpeg?im_w=720",
@@ -1429,7 +1429,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/911054031767363508",
 "airbnb": true,
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/86a7cc92-a4d1-407f-b40a-55dd119a468a.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/02b48ab4-921d-4692-8034-01fca280e4a4.png?im_w=720",
@@ -1628,8 +1628,8 @@
 "rating": 5.0,
 "reviews": 2,
 "badge": "SUPERHOST",
-"fri": 1692,
-"thu": 2128,
+"fri": 1685,
+"thu": 2134,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.67295,
 "lng": -111.43304,
@@ -1644,7 +1644,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1690011273056812203",
 "airbnb": true,
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1690011273056812203/original/a85d55b3-ae71-4112-8dc5-b5a668d38387.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1690011273056812203/original/127d3873-387c-42f7-bad1-031d820a1477.jpeg?im_w=720",
@@ -1915,8 +1915,8 @@
 "rating": 5.0,
 "reviews": 34,
 "badge": "TOP_GUEST_FAVORITE",
-"fri": 1464,
-"thu": 1904,
+"fri": 1741,
+"thu": 2178,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.728,
 "lng": -111.4845,
@@ -1929,7 +1929,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1496551790362232164",
 "airbnb": true,
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/6baf62a7-c38b-4d4c-b677-b8eaec50b9b0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/1ff8c87d-4578-4691-bb98-323f409456a3.jpeg?im_w=720",
@@ -2132,8 +2132,8 @@
 "rating": 4.67,
 "reviews": 6,
 "badge": "SUPERHOST",
-"fri": 1301,
-"thu": 1589,
+"fri": 1287,
+"thu": 1562,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.6279,
 "lng": -111.4357,
@@ -2145,7 +2145,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1201439119499774710",
 "airbnb": true,
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1201439119499774710/original/0560ce05-46da-427b-b2e0-83cfe79f1b3a.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1201439119499774710/original/a0b8797d-2003-4f13-aa9d-b74328402436.jpeg?im_w=720",
@@ -2276,7 +2276,7 @@
 "reviews": 6,
 "badge": "SUPERHOST",
 "fri": null,
-"thu": 2339,
+"thu": 2338,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.62919,
 "lng": -111.43079,
@@ -2290,7 +2290,7 @@
 "url": "https://www.airbnb.com/rooms/1695884741265796434",
 "airbnb": true,
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/82f51794-284d-41c0-b950-128b51878e7f.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/4fe20392-da4e-458c-8ae9-280aad7fe585.jpeg?im_w=720",
@@ -2566,7 +2566,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1792096852836576896",
 "airbnb": true,
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1792096852836576896/original/9d6a7ce1-82e2-4a6c-b510-76b242be3d63.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1792096852836576896/original/ab903790-8fae-48b4-9326-633b7de48aa2.jpeg?im_w=720",
@@ -4254,7 +4254,7 @@
 "rating": 4.96,
 "reviews": 23,
 "fri": null,
-"thu": 4335,
+"thu": 4357,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.6455,
 "lng": -111.4975,
@@ -4267,7 +4267,7 @@
 "walk_mi": 0.1,
 "alt_url": "https://www.airbnb.com/rooms/722379489554459118",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70100000/70097500/70097448/403ae679.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/71000000/70100000/70097500/70097448/036412f1.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4360,7 +4360,7 @@
 "walk_mi": 0.15,
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 20,
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70270000/70261300/70261231/6cb42a0e.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4673,7 +4673,7 @@
 "url": "https://www.vrbo.com/1475919",
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "photos": [
 "https://media.vrbo.com/lodging/33000000/32160000/32152800/32152799/70c84cad.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4948,7 +4948,7 @@
 "rating": 5.0,
 "reviews": 16,
 "fri": null,
-"thu": 5500,
+"thu": 5448,
 "price_basis": "Vrbo total, all fees included · Airbnb alt link Thu: $5,554 incl. fees, excl. taxes",
 "lat": 40.64412,
 "lng": -111.49753,
@@ -4963,7 +4963,7 @@
 "srcfile": "ext2/goldcoast.html",
 "alt_url": "https://www.airbnb.com/rooms/53727623",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "photos": [
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/f8230911.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/eae024ce.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4999,9 +4999,9 @@
 "sleeps": 16,
 "rating": 5.0,
 "reviews": 3,
-"fri": 4482,
-"thu": 6002,
-"price_basis": "Vrbo total for 11 guests, all fees included · free cancellation until ~Apr 18, 2027, partial refund until ~May 18 · Airbnb alt link: Thu $6,165 / Fri $4,478 incl. fees, excl. taxes",
+"fri": 4503,
+"thu": 5996,
+"price_basis": "Vrbo total for 11 guests, all fees included · free cancellation until ~Apr 18, 2027, partial refund until ~May 18 · Airbnb alt link: Thu $6,158 / Fri $4,499 incl. fees, excl. taxes",
 "lat": 40.6478,
 "lng": -111.5012,
 "coords_approx": true,
@@ -5013,8 +5013,9 @@
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "alt_url": "https://www.airbnb.com/rooms/1689969478201906646",
+"max_guests": 18,
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/6c1da3b0-08c8-4d45-88db-7f1101a40af0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1689969478201906646/original/75b624f9-dd6c-4795-8f65-d47952b3d136.jpeg?im_w=720",
@@ -5222,7 +5223,7 @@
 "rating": 5.0,
 "reviews": 96,
 "fri": null,
-"thu": 5504,
+"thu": 5409,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.6455,
 "lng": -111.4965,
@@ -5235,7 +5236,7 @@
 "srcfile": "ext2/offmain.html",
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 14,
 "photos": [
 "https://media.vrbo.com/lodging/23000000/22130000/22123300/22123238/5a2570e9.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5272,8 +5273,8 @@
 "sleeps": 14,
 "rating": 4.6,
 "reviews": 5,
-"fri": 2152,
-"thu": 2591,
+"fri": 2149,
+"thu": 2582,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.633,
 "lng": -111.483,
@@ -5286,7 +5287,7 @@
 "url": "https://www.vrbo.com/5284627",
 "srcfile": "ext2/whiteout.html",
 "rating_raw": "9.2/10",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 14,
 "photos": [
 "https://media.vrbo.com/lodging/132000000/131460000/131457000/131456996/ad78312b.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -5562,7 +5563,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-849218033447943012/original/149f8f9c-0719-4788-a58d-124072f36e83.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-849218033447943012/original/12d0635b-b60f-4fb1-a47c-f1c3d175e279.jpeg?im_w=720"
 ],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -5845,7 +5846,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1738589890720018710/original/aecb3b25-ab9c-45f1-a355-fe98c3209fef.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -5916,7 +5917,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1497327845221076010/original/414dc89f-abc9-431b-88be-765792ff5f38.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 9,
 "pl": [
 "Exterior",
@@ -5989,7 +5990,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-624801791511932117/original/530d82df-ebd2-45c9-bb80-574e283c4006.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6050,7 +6051,7 @@
 "https://a0.muscache.com/im/pictures/e260f044-95a7-45b3-ac64-4e87697f88b5.jpg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6081,7 +6082,7 @@
 "rating": 4.8,
 "reviews": 15,
 "fri": null,
-"thu": 6205,
+"thu": 6106,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6498,
@@ -6112,7 +6113,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1237179506069103065/original/85b0e720-d0b1-4f88-9aaf-a4ed119a83f6.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -6184,7 +6185,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-47054326/original/a6cd5931-1211-4570-b4ab-0132e9eb0d91.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -6323,7 +6324,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1592232501589945132/original/3c6d2ffe-64d9-41d5-a4af-4943350284c8.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1592232501589945132/original/00ee6044-94ae-4c2a-920e-e8c747f6334b.jpeg?im_w=720"
 ],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -6453,7 +6454,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4NTU1MjUxMjgxMTk0NjA0OA==/original/33c52f70-31d4-44a0-be12-946907cb6eee.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "pl": [
 "Outdoor",
@@ -6756,7 +6757,7 @@
 "rating": 5.0,
 "reviews": 16,
 "fri": null,
-"thu": 6004,
+"thu": 5916,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6428,
@@ -6787,7 +6788,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1368973511689356769/original/990075e6-646a-4e11-96e6-45a9b62d9dd9.png?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -6828,7 +6829,7 @@
 "rating": 5.0,
 "reviews": 34,
 "fri": null,
-"thu": 6254,
+"thu": 6159,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6492,
@@ -6860,7 +6861,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-915351556084533120/original/6fd9d527-e642-4ee0-bdb7-e0e0153e0780.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Kitchen",
 "Living",
@@ -6932,7 +6933,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147876303088783710/original/0aac2f87-0478-4a17-a724-803f4cc967c2.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1147876303088783710/original/d8f8fca7-c3e1-426e-97af-a8d903d7ef9d.jpeg?im_w=720"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Kitchen",
 "Living",
@@ -7355,7 +7356,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-43278250/original/52b6e5a9-ae12-4bfb-ae98-90ac1759c44e.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-43278250/original/f7f13076-92a4-4cd6-8997-1585e00b11e0.jpeg?im_w=720"
 ],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "pl": [
 "Kitchen",
 "Living",
@@ -7535,8 +7536,8 @@
 "sleeps": 12,
 "rating": 5.0,
 "reviews": 1,
-"fri": 2348,
-"thu": 3294,
+"fri": 2353,
+"thu": 3297,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search) · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6408,
@@ -7567,7 +7568,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1601836558116797519/original/be8bf95a-2cec-4d92-b9ec-a40b5f6ef559.jpeg?im_w=720"
 ],
 "alt_url": "https://www.vrbo.com/5053236",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -7821,8 +7822,8 @@
 "sleeps": 12,
 "rating": null,
 "reviews": 0,
-"fri": 2142,
-"thu": 2865,
+"fri": 2190,
+"thu": 2940,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.6502,
@@ -7851,7 +7852,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1016624666210412396/original/37f226c1-f447-431e-b8ae-51f47dccfbf8.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1016624666210412396/original/dbb0e606-b57b-48de-b907-319c797756cd.jpeg?im_w=720"
 ],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "pl": [
 "Kitchen",
 "Living",
@@ -8067,7 +8068,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1785817219099432159/original/dad029bd-6d85-41c8-a4ae-904c5551906f.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Kitchen",
 "Living",
@@ -8140,7 +8141,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1423232157001252818/original/784f6d77-ece9-4eb2-a4a1-4b91c45da04a.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 11,
 "pl": [
 "Exterior",
@@ -8182,7 +8183,7 @@
 "rating": 4.97,
 "reviews": 29,
 "fri": null,
-"thu": 3551,
+"thu": 3565,
 "thu_note": null,
 "price_basis": "incl. fees, excl. taxes (Old Town search)",
 "lat": 40.64427,
@@ -8211,7 +8212,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1268276870825300371/original/d77cf236-6289-4f74-9840-da3199d861e5.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "pl": [
 "Exterior",
 "Kitchen",
@@ -8321,7 +8322,7 @@
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/w599h450x1y0-238f2444.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/34000000/33650000/33645400/33645395/61aaf77f.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 10,
 "pl": [
 "Kitchen",
@@ -8494,8 +8495,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 17,
-"fri": 2368,
-"thu": 2826,
+"fri": 2345,
+"thu": 2794,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.647119999999994,
 "lng": -111.49683,
@@ -8508,7 +8509,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/531b5349.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/42dcff57.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 16,
 "pl": [
 "Living",
@@ -8727,7 +8728,7 @@
 "amen": [],
 "url": "https://www.vrbo.com/3147652",
 "photos": [],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "max_guests": 10,
 "area": "Old Town/Main St",
 "km": 0.3,
@@ -9132,7 +9133,7 @@
 "rating_raw": "9.8/10",
 "reviews": 38,
 "fri": 3948,
-"thu": 4610,
+"thu": 4588,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.6493,
 "lng": -111.502976,
@@ -9150,7 +9151,7 @@
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/0339d19a.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/3ef7b8d0.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 20,
 "pl": [
 "Exterior",
@@ -9383,8 +9384,8 @@
 "rating": 5.0,
 "rating_raw": "10/10",
 "reviews": 63,
-"fri": 2336,
-"thu": 2830,
+"fri": 2362,
+"thu": 2815,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.64214,
@@ -9396,7 +9397,7 @@
 ],
 "url": "https://www.vrbo.com/5291005",
 "photos": [],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "max_guests": 13,
 "area": "Old Town/Main St",
 "km": 0.7,
@@ -9635,7 +9636,7 @@
 "https://media.vrbo.com/lodging/105000000/104480000/104471800/104471794/3a476649.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/105000000/104480000/104471800/104471794/de17e195.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 14,
 "pl": [
 "Kitchen",
@@ -9769,8 +9770,8 @@
 "rating": 5.0,
 "rating_raw": "10/10",
 "reviews": 2,
-"fri": 1956,
-"thu": 2550,
+"fri": 2138,
+"thu": 2629,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.63794,
@@ -9780,14 +9781,14 @@
 "amen": [],
 "url": "https://www.vrbo.com/5004550",
 "photos": [],
-"checked": "2026-10-28",
+"checked": "2026-11-04",
 "max_guests": 12,
 "area": "Deer Valley",
 "km": 1.4,
 "drive": 6,
 "mi": 0.8,
 "walk": false,
-"tier": "Mid",
+"tier": "Splurge",
 "score": 61
 },
 {
@@ -9821,7 +9822,7 @@
 "https://media.vrbo.com/lodging/30000000/29630000/29626200/29626144/50213338.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/30000000/29630000/29626200/29626144/w846h566x1y1-6e869b6b.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 14,
 "pl": [
 "Exterior",
@@ -9902,8 +9903,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 15,
-"fri": 3922,
-"thu": 4776,
+"fri": 3892,
+"thu": 4734,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.632786,
 "lng": -111.489808,
@@ -9921,7 +9922,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/b2670901.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/ad00d5e7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "max_guests": 16,
 "pl": [
 "Exterior",
