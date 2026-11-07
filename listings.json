@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-11-06",
-"built": "2026-11-06T09:28:37-05:00",
+"checked": "2026-11-07",
+"built": "2026-11-07T09:33:15-05:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -4360,7 +4360,7 @@
 "walk_mi": 0.15,
 "rating_raw": "10/10",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 20,
 "photos": [
 "https://media.vrbo.com/lodging/71000000/70270000/70261300/70261231/6cb42a0e.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4912,7 +4912,7 @@
 "srcfile": "ext2/goldcoast.html",
 "alt_url": "https://www.airbnb.com/rooms/53727623",
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 14,
 "photos": [
 "https://media.vrbo.com/lodging/76000000/75210000/75208300/75208204/f8230911.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -4949,8 +4949,8 @@
 "sleeps": 16,
 "rating": 5.0,
 "reviews": 3,
-"fri": 4503,
-"thu": 5998,
+"fri": 4385,
+"thu": 5999,
 "price_basis": "Vrbo total for 11 guests, all fees included · free cancellation until ~Apr 18–19, 2027, partial refund until ~May 18 · Airbnb alt link: Thu $6,162 / Fri $4,499 incl. fees, excl. taxes",
 "lat": 40.6478,
 "lng": -111.5012,
@@ -4963,7 +4963,7 @@
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "alt_url": "https://www.airbnb.com/rooms/1689969478201906646",
 "max_guests": 18,
 "photos": [
@@ -5223,7 +5223,7 @@
 "sleeps": 14,
 "rating": 4.6,
 "reviews": 5,
-"fri": 2140,
+"fri": 2082,
 "thu": 2581,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.633,
@@ -5237,7 +5237,7 @@
 "url": "https://www.vrbo.com/5284627",
 "srcfile": "ext2/whiteout.html",
 "rating_raw": "9.2/10",
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 14,
 "photos": [
 "https://media.vrbo.com/lodging/132000000/131460000/131457000/131456996/ad78312b.jpg?impolicy=resizecrop&rw=600&ra=fit",
@@ -8301,8 +8301,8 @@
 "rating": null,
 "rating_raw": null,
 "reviews": 0,
-"fri": 1907,
-"thu": 2481,
+"fri": 1807,
+"thu": 2347,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.641171,
@@ -8318,7 +8318,7 @@
 "https://media.vrbo.com/lodging/137000000/136890000/136886700/136886697/99aee5cc.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/137000000/136890000/136886700/136886697/f0c6c2c9.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-31",
+"checked": "2026-11-07",
 "max_guests": 15,
 "pl": [
 "Exterior",
@@ -8349,8 +8349,8 @@
 "rating": 4.9,
 "rating_raw": "9.8/10",
 "reviews": 13,
-"fri": 2534,
-"thu": 3110,
+"fri": 2422,
+"thu": 2985,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.643322,
@@ -8366,7 +8366,7 @@
 "https://media.vrbo.com/lodging/79000000/78370000/78367600/78367587/823c3767.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/79000000/78370000/78367600/78367587/71a78aac.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-10-31",
+"checked": "2026-11-07",
 "max_guests": 11,
 "pl": [
 "Kitchen",
@@ -8397,8 +8397,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 17,
-"fri": 2323,
-"thu": 2765,
+"fri": 2261,
+"thu": 2766,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.647119999999994,
 "lng": -111.49683,
@@ -8411,7 +8411,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/531b5349.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21704700/21704684/42dcff57.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 16,
 "pl": [
 "Living",
@@ -8724,56 +8724,6 @@
 "score": 77
 },
 {
-"id": "vo-3010966",
-"source": "Vrbo",
-"name": "Walk to Ski Slopes + Trails! Luxury 4-Bedroom Private Home with Private Hot tub, A/C, Heated Parking, and Two Master Suite! | PEA-1009 by KBM Resorts",
-"subtitle": "Luxury 4BR PEA-1009",
-"br": 4,
-"beds": 5,
-"beds_verified": false,
-"beds_note": "Vrbo card bed count (unverified)",
-"baths": null,
-"sleeps": 9,
-"rating": 5.0,
-"rating_raw": "10/10",
-"reviews": 12,
-"fri": 1900,
-"thu": 2420,
-"thu_note": null,
-"price_basis": "Vrbo total, all fees included",
-"lat": 40.648214,
-"lng": -111.502482,
-"coords_approx": false,
-"walk_mi": 0.4,
-"amen": [
-"hot tub"
-],
-"url": "https://www.vrbo.com/3010966",
-"photos": [
-"https://media.vrbo.com/lodging/87000000/86510000/86508800/86508720/e16dd40e.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/87000000/86510000/86508800/86508720/cd516909.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/87000000/86510000/86508800/86508720/fabef188.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/87000000/86510000/86508800/86508720/09e7da82.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/87000000/86510000/86508800/86508720/fdd87499.jpg?impolicy=resizecrop&rw=600&ra=fit"
-],
-"checked": "2026-10-31",
-"max_guests": 9,
-"pl": [
-"Exterior",
-"Kitchen",
-"Living",
-"Outdoor",
-"Dining"
-],
-"area": "Old Town/Main St",
-"km": 0.4,
-"drive": 5,
-"mi": 0.4,
-"walk": true,
-"tier": "Mid",
-"score": 79
-},
-{
 "id": "vo-5232109",
 "source": "Vrbo",
 "name": "Experience luxury at Park City Main Street 148, a 4-bedroom retreat in Historic Old Town.",
@@ -8990,7 +8940,7 @@
 "rating": 4.9,
 "rating_raw": "9.8/10",
 "reviews": 38,
-"fri": 3948,
+"fri": 3843,
 "thu": 4581,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.6493,
@@ -9009,7 +8959,7 @@
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/0339d19a.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/24000000/23360000/23359500/23359403/3ef7b8d0.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 20,
 "pl": [
 "Exterior",
@@ -9359,56 +9309,6 @@
 "score": 53
 },
 {
-"id": "vo-3674916",
-"source": "Vrbo",
-"name": "Deer Valley Luxury | Walk-In Access | Hot Tub",
-"subtitle": "Deer Valley walk-in",
-"br": 4,
-"beds": 5,
-"beds_verified": false,
-"beds_note": "Vrbo card bed count (unverified)",
-"baths": null,
-"sleeps": 10,
-"rating": 4.4,
-"rating_raw": "8.8/10",
-"reviews": 5,
-"fri": 2217,
-"thu": 2960,
-"thu_note": null,
-"price_basis": "Vrbo total, all fees included",
-"lat": 40.64511,
-"lng": -111.48553,
-"coords_approx": false,
-"walk_mi": 0.6,
-"amen": [
-"hot tub"
-],
-"url": "https://www.vrbo.com/3674916",
-"photos": [
-"https://media.vrbo.com/lodging/100000000/99910000/99905300/99905248/04b8c35a.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/100000000/99910000/99905300/99905248/4ca2d6cb.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/100000000/99910000/99905300/99905248/086a0add.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/100000000/99910000/99905300/99905248/435f4954.jpg?impolicy=resizecrop&rw=600&ra=fit",
-"https://media.vrbo.com/lodging/100000000/99910000/99905300/99905248/d6218223.jpg?impolicy=resizecrop&rw=600&ra=fit"
-],
-"checked": "2026-10-31",
-"max_guests": 10,
-"pl": [
-"Kitchen",
-"Living",
-"Outdoor",
-"Dining",
-""
-],
-"area": "Old Town/Main St",
-"km": 1.1,
-"drive": 5,
-"mi": 0.6,
-"walk": false,
-"tier": "Splurge",
-"score": 57
-},
-{
 "id": "vo-2999610",
 "source": "Vrbo",
 "name": "Modern Mountain Design, Hot Tub & Sauna + Free Shuttle - Perfect for Families!",
@@ -9494,7 +9394,7 @@
 "https://media.vrbo.com/lodging/105000000/104480000/104471800/104471794/3a476649.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/105000000/104480000/104471800/104471794/de17e195.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 14,
 "pl": [
 "Kitchen",
@@ -9663,7 +9563,7 @@
 "rating": 4.7,
 "rating_raw": "9.4/10",
 "reviews": 124,
-"fri": 851,
+"fri": 828,
 "thu": 1037,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
@@ -9680,7 +9580,7 @@
 "https://media.vrbo.com/lodging/30000000/29630000/29626200/29626144/50213338.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/30000000/29630000/29626200/29626144/w846h566x1y1-6e869b6b.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 14,
 "pl": [
 "Exterior",
@@ -9761,8 +9661,8 @@
 "rating": 4.6,
 "rating_raw": "9.2/10",
 "reviews": 15,
-"fri": 3915,
-"thu": 4752,
+"fri": 3807,
+"thu": 4747,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.632786,
 "lng": -111.489808,
@@ -9780,7 +9680,7 @@
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/b2670901.jpg?impolicy=resizecrop&rw=600&ra=fit",
 "https://media.vrbo.com/lodging/22000000/21710000/21701900/21701890/ad00d5e7.jpg?impolicy=resizecrop&rw=600&ra=fit"
 ],
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "max_guests": 16,
 "pl": [
 "Exterior",
@@ -9811,8 +9711,8 @@
 "rating": 4.9,
 "rating_raw": "9.8/10",
 "reviews": 6,
-"fri": 1549,
-"thu": 2032,
+"fri": 1545,
+"thu": 1990,
 "thu_note": null,
 "price_basis": "Vrbo total, all fees included",
 "lat": 40.645109999999995,
@@ -9824,7 +9724,7 @@
 ],
 "url": "https://www.vrbo.com/7920737ha",
 "photos": [],
-"checked": "2026-10-31",
+"checked": "2026-11-07",
 "max_guests": 12,
 "area": "Old Town/Main St",
 "km": 0.5,
