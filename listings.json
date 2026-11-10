@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-11-09",
-"built": "2026-11-09T09:17:08-05:00",
+"checked": "2026-11-10",
+"built": "2026-11-10T09:04:15-05:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -429,7 +429,7 @@
 "rating": 4.5,
 "reviews": 4,
 "badge": "LUXE",
-"fri": 3113,
+"fri": 3105,
 "thu": null,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.6464,
@@ -442,7 +442,7 @@
 "url": "https://www.airbnb.com/rooms/1711002432388243348",
 "airbnb": true,
 "thu_status": "Unavailable",
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/691f99ab-cf38-4bc7-9eb8-376070d86e20.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1711002432388243348/original/907e28b5-5f11-436b-892f-259e994fa216.png?im_w=720",
@@ -1429,7 +1429,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/911054031767363508",
 "airbnb": true,
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/86a7cc92-a4d1-407f-b40a-55dd119a468a.png?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-911054031767363508/original/02b48ab4-921d-4692-8034-01fca280e4a4.png?im_w=720",
@@ -1915,8 +1915,8 @@
 "rating": 5.0,
 "reviews": 34,
 "badge": "TOP_GUEST_FAVORITE",
-"fri": 1807,
-"thu": 2241,
+"fri": 1827,
+"thu": 2257,
 "price_basis": "Airbnb total incl. fees, excl. taxes · rechecked Oct 12, same total for 10–11 guests",
 "lat": 40.728,
 "lng": -111.4845,
@@ -1929,7 +1929,7 @@
 ],
 "url": "https://www.airbnb.com/rooms/1496551790362232164",
 "airbnb": true,
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/6baf62a7-c38b-4d4c-b677-b8eaec50b9b0.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1496551790362232164/original/1ff8c87d-4578-4691-bb98-323f409456a3.jpeg?im_w=720",
@@ -2276,7 +2276,7 @@
 "reviews": 6,
 "badge": "SUPERHOST",
 "fri": null,
-"thu": 2265,
+"thu": 2249,
 "price_basis": "Airbnb total incl. fees, excl. taxes",
 "lat": 40.62919,
 "lng": -111.43079,
@@ -2290,7 +2290,7 @@
 "url": "https://www.airbnb.com/rooms/1695884741265796434",
 "airbnb": true,
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "photos": [
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/82f51794-284d-41c0-b950-128b51878e7f.jpeg?im_w=720",
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1695884741265796434/original/4fe20392-da4e-458c-8ae9-280aad7fe585.jpeg?im_w=720",
@@ -5796,7 +5796,7 @@
 "https://a0.muscache.com/im/pictures/hosting/Hosting-1738589890720018710/original/aecb3b25-ab9c-45f1-a355-fe98c3209fef.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "max_guests": 10,
 "pl": [
 "Exterior",
@@ -5867,7 +5867,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1497327845221076010/original/414dc89f-abc9-431b-88be-765792ff5f38.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "max_guests": 9,
 "pl": [
 "Exterior",
@@ -5940,7 +5940,7 @@
 "https://a0.muscache.com/im/pictures/prohost-api/Hosting-624801791511932117/original/530d82df-ebd2-45c9-bb80-574e283c4006.jpeg?im_w=720"
 ],
 "fri_status": "Min stay 3 nights",
-"checked": "2026-11-09",
+"checked": "2026-11-10",
 "max_guests": 10,
 "pl": [
 "Exterior",
