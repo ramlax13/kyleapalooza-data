@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-11-10",
-"built": "2026-11-10T09:04:15-05:00",
+"checked": "2026-11-12",
+"built": "2026-11-12T09:03:25-05:00",
 "listings": [
 {
 "id": "ab-1548018492106651367",
@@ -4949,8 +4949,8 @@
 "sleeps": 16,
 "rating": 5.0,
 "reviews": 3,
-"fri": 4386,
-"thu": 6008,
+"fri": 4395,
+"thu": 6146,
 "price_basis": "Vrbo total for 11 guests, all fees included · free cancellation until ~Apr 18–19, 2027, partial refund until ~May 18 · Airbnb alt link: Thu $6,162 / Fri $4,499 incl. fees, excl. taxes",
 "lat": 40.6478,
 "lng": -111.5012,
@@ -4963,7 +4963,7 @@
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
-"checked": "2026-11-08",
+"checked": "2026-11-12",
 "alt_url": "https://www.airbnb.com/rooms/1689969478201906646",
 "max_guests": 18,
 "photos": [
