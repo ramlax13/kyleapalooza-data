@@ -1,7 +1,7 @@
 {
 "schema": 1,
-"checked": "2026-11-27",
-"built": "2026-11-27T09:21:18-05:00",
+"checked": "2026-11-28",
+"built": "2026-11-28T09:02:09-05:00",
 "listings": [
 {
 "id": "ab-1638813467534545758",
@@ -4748,9 +4748,9 @@
 "sleeps": 16,
 "rating": 5.0,
 "reviews": 3,
-"fri": 4282,
-"thu": 5947,
-"price_basis": "Vrbo total for 11 guests, all fees included · free cancellation until ~Apr 18–19, 2027, partial refund until ~May 18 · Airbnb alt link: not rechecked Nov 25",
+"fri": 4196,
+"thu": 5854,
+"price_basis": "Vrbo total for 11 guests, all fees included · free cancellation until ~Apr 18–19, 2027, partial refund until ~May 18 · Airbnb alt link: not rechecked Nov 28",
 "lat": 40.6478,
 "lng": -111.5012,
 "coords_approx": true,
@@ -4762,7 +4762,7 @@
 "airbnb": true,
 "srcfile": "ext2/norfolk21.html",
 "srctype": "Airbnb",
-"checked": "2026-11-25",
+"checked": "2026-11-28",
 "alt_url": "https://www.airbnb.com/rooms/1689969478201906646",
 "max_guests": 18,
 "photos": [
